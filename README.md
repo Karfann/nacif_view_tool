@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+NacifViewTool::Renderer.copyright 'Karfann Nacif', 'All rights reserved'
+```
 
 ## Development
 
